@@ -1,8 +1,8 @@
 [avg_sed_rate_tacc] contains the files to run the code from the submitted paper to Marine Geology.
 
-[input_files] can be found in the google drive link:
-https://drive.google.com/file/d/1adyHMxctFuH6I_cz9wOAh_dQmXa0km2c/view?usp=sharing
-It also contains an example output file for "Location 1" from figures 8 and 10.
+[input_files] contains seafloor data used for the PFLOTRAN simulation:
+
+[example_output] contains the output file for "Location 1" from figures 8 and 10. Due to the quantity of files being created, outputs for other simulations could not be uploaded. However these simulations can be run using the code in [avg_sed_rate_tacc]. A summary of the simulations that were run and used for the maps presented in the associated paper are included in [avg_sed_rate_tacc]/[output].
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
