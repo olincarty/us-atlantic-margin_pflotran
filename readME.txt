@@ -5,6 +5,9 @@
 [example_output] contains the output file for "Location 1" from figures 8 and 10. Due to the quantity of files being created, outputs for other simulations could not be uploaded. However these simulations can be run using the code in [avg_sed_rate_tacc]. A summary of the simulations that were run and used for the maps presented in the associated paper are included in [avg_sed_rate_tacc]/[output].
 
 
+To run these simulations, PFLOTRAN must be installed. PFLOTRAN is an open source software.
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [avg_sed_rate_tacc]
