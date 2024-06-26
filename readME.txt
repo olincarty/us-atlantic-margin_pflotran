@@ -38,3 +38,9 @@ pflotran_run.py: change data path in line 73
 
 porosity.nc: 5 arc-minute resolution seafloor porosity data from Carty and Daigle, 2022.
 TOC.nc: 5 arc-minute resolution seafloor total organic carbon data from Carty and Daigle, 2022.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Due to the amount of locations modeled and the number of output files at each location, all output files could not be uploaded to this repository. In order to work around the total size of these files, the code that was used (and included in the GitHub repository) calculates the minimum factor of safety, maximum gas saturation, and maximum hydrate saturation over time at a given location. The corresponding values associated with each of these are saved in output .csv files. Once this is done, the actual output files of the simulation are deleted as to not run the computer out of space on the hard drive.
